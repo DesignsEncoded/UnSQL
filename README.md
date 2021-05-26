@@ -1,5 +1,7 @@
 # SchemaLess
-It is a JavaScript library, a repository based ORM, that facilitates to interact with the MySQL databases without actually writing a single line of SQL query.
+It is a JavaScript library developed and maintained by Siddharth Tiwari.
+
+SchemaLess is a repository based ORM, that facilitates to interact with the MySQL databases without actually writing a single line of SQL query.
 
 This also eliminates the hectic of remembering and placing of SQL keywords in their specific order and lets the developers to focus on the intented task.
 
@@ -8,3 +10,5 @@ One of the many features is that it works without the requirement of any schema 
 Another greate feature is that it eliminates the issues relating to the handling of transactions and also takes care of the graceful termination of the MySQL connection after the operation is completed or with a transaction rollback and connection termination in case of any error.
 
 It also converts the traditional callback based MySQL functions into the newer and advanced Promise based functions.
+
+Please note: This library is free to use commercially with attribution in the code. It is not an open source library.
