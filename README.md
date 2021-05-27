@@ -11,4 +11,4 @@ Another greate feature is that it eliminates the issues relating to the handling
 
 It also converts the traditional callback based MySQL functions into the newer and advanced Promise based functions.
 
-Please note: This library is free to use commercially with attribution in the code. It is not an open source library.
+Please note: Current version is not ment for open public use, it is only ment to work with the Designs Encoded's custom architecture. Public version along with a proper wiki is under construction and will be available soon.
