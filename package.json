@@ -1,0 +1,21 @@
+{
+  "name": "unsql",
+  "version": "1.0.7",
+  "description": "This is a library built to interact with MySQL databases without actually writting the SQL. It is a schemaless ORM that helps interactions with the databases without having the requirement of predefining the schema. It has an easy to grasp interface and is provides with extremely fast way of interacting with the MySQL database. It is internally takes care of the creation of the transactions for the queries, gracefully falling back in case of failure and gracefully releasing the connection from the pool in case of successful execution of the query. Entire library is built using promises.",
+  "main": "unsql.js",
+  "keywords": [
+    "ORM",
+    "MySQL",
+    "Library",
+    "Javascript",
+    "Database",
+    "SQL",
+    "UnSQL",
+    "Node JS"
+  ],
+  "author": "Siddharth Tiwari <siddharth@designsencoded.com>",
+  "contributors": [
+    "Siddharth Tiwari"
+  ],
+  "license": "ISC"
+}
